@@ -2,6 +2,7 @@
 	"name": "@ctx-core/style",
 	"version": "3.1.16",
 	"description": "ctx-core style",
+	"type": "module",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
