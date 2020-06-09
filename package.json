@@ -26,7 +26,7 @@
 		"access": "public"
 	},
 	"devDependencies": {
-		"typescript": "^3.9.3"
+		"typescript": "^3.9.5"
 	},
 	"gitHead": "3fc884627456b09088f74152a2ccf81c7029d415"
 }
