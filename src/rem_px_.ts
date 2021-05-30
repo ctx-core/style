@@ -1,8 +1,11 @@
-export function _rem_px(rem = 1) {
+export function rem_px_(rem = 1) {
 	return rem * parseFloat(
 		getComputedStyle(
 			document.documentElement)
 			.fontSize
 	)
 }
-export { _rem_px as _px__rem }
+export {
+	rem_px_ as _rem_px,
+	rem_px_ as _px__rem,
+}
