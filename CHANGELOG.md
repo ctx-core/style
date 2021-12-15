@@ -1,5 +1,11 @@
 # @ctx-core/style
 
+## 8.0.26
+
+### Patch Changes
+
+- fix: package.json: exports
+
 ## 8.0.25
 
 ### Patch Changes
