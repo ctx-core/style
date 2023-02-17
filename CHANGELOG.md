@@ -1,5 +1,11 @@
 # @ctx-core/style
 
+## 8.1.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+
 ## 8.0.41
 
 ### Patch Changes
