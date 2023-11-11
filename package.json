@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/style",
-	"version": "8.1.21",
+	"version": "8.2.0",
 	"description": "ctx-core style",
 	"keywords": [
 		"ctx-core",
@@ -17,10 +17,14 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.d.ts",
-	"svelte": "./src/index.js",
+	"files": [
+		"*.d.ts",
+		"./px_rem_",
+		"./rem_px_"
+	],
+	"types": "./index.d.ts",
 	"exports": {
-		".": "./src/index.js",
+		".": "./index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {
