@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/style",
-	"version": "8.2.2",
+	"version": "8.2.3",
 	"description": "ctx-core style",
 	"keywords": [
 		"ctx-core",
@@ -19,6 +19,7 @@
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.js",
 		"*.json",
 		"./px_rem_",
 		"./rem_px_"
