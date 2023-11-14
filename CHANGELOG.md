@@ -1,5 +1,11 @@
 # @ctx-core/style
 
+## 8.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+
 ## 8.2.1
 
 ### Patch Changes
