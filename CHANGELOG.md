@@ -1,5 +1,11 @@
 # @ctx-core/style
 
+## 8.2.7
+
+### Patch Changes
+
+- tsx: ^4.3.0 -> ^4.4.0
+
 ## 8.2.6
 
 ### Patch Changes
