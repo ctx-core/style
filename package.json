@@ -21,8 +21,8 @@
 		"*.d.ts",
 		"*.js",
 		"*.json",
-		"./px_rem_",
-		"./rem_px_"
+		"px_rem",
+		"rem_px"
 	],
 	"types": "./index.d.ts",
 	"exports": {
